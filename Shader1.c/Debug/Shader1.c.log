@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\relai\documents\visual studio 2015\projects\shader1.c\shader1.c\main.c(1): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "glfw3.h": No such file or directory
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: "CL.exe" wurde mit dem Code 2 beendet.
